@@ -14,7 +14,7 @@ paste this code
 
 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 
 
 RegisterNetEvent('qb-radialmenu:client:flipvehicle', function()
@@ -75,9 +75,9 @@ RegisterNetEvent('qb-radialmenu:client:flipvehicle', function()
 
 end)
 
-!!!!!!!!!!!!!!!!!!!!
+
 and config.lua of radialmenu
-!!!!!!!!!!!!!!!!!! 
+
 
 {
 
@@ -94,4 +94,4 @@ and config.lua of radialmenu
     shouldClose = true
 
  }
-!!!!!!!!!
+
