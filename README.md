@@ -7,17 +7,15 @@ https://youtu.be/p45FbdDdhE8
 
 YouTube
 
-
-
-
-
-
-
-
-
 go to qb-radialmenu/client/main.lua
 
 paste this code
+
+
+
+
+
+
 
 RegisterNetEvent('qb-radialmenu:client:flipvehicle', function()
 
@@ -77,7 +75,7 @@ RegisterNetEvent('qb-radialmenu:client:flipvehicle', function()
 
 end)
 
-and config.lua
+and config.lua of radialmenu
 
 {
 
