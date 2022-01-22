@@ -75,10 +75,13 @@ RegisterNetEvent('qb-radialmenu:client:flipvehicle', function()
 
 end)
 
+```
 
-and config.lua of radialmenu
+
+and config.lua of radialmenu 
 
 
+```
 {
 
     id = 'flipvehicle',
